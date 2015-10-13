@@ -1,0 +1,105 @@
+.clear{
+	clear:both;
+}
+.menu
+{
+	margin-top: 50px;
+  margin-left: 25px;
+}
+.menu ul li
+{
+	list-style : none;
+  float: left;
+  margin-left : 20px;
+}
+.menu ul li a
+{
+	  font-size: 22px;
+  color: #000;
+}
+.name h1{
+	color: #000;
+  font-size: 25px;
+  margin-top: 50px;
+  
+}
+
+.main_home h2
+{
+	color: #fff;
+  margin-top: 200px;
+  font-size: 60px;
+}
+.main_home .jombotron
+{
+	background: url(https://portfolio-rails-2633.herokuapp.com/assets/home-db103bf75e724b89102c607792424914.jpg) center center;
+  background-size: cover;
+  min-height: 600px;
+  width: 100%;
+ 	margin-top: 30px;
+  margin-bottom: 300px;
+}
+.hightlight 
+{
+	background-color: #99FFCC;
+  color: #000;
+  padding: 0 10px 0;
+}
+.jombotron a
+{
+	background-color: #000;
+  border-radius: 0;
+  color: #fff;
+  font-size: 20px;
+  margin-right: 200px;
+   padding: 15px;
+   float: right;
+   text-decoration: none;
+   cursor: pointer;
+   }
+.jombotron a:hover{
+   	background: #820379;
+    text-decoration: none;
+   }
+  a {
+    color: #337ab7;
+    text-decoration: none;
+}
+
+.footer
+{
+	margin-top: -250px;
+}
+.socialmedia li{
+    float:right;
+    list-style:none;
+    padding:10px;
+}
+.socialmedia li a
+{
+	  display: block;
+    height: 24px;
+    width: 24px;
+    text-align:left;
+    text-indent:-9999px;
+}
+.github
+{
+	background-image: url(https://portfolio-rails-2633.herokuapp.com/assets/github-edc899c60c7b3afd0c458e648197f578.svg);
+  background-position: center center;
+  background-repeat:no-repeat;
+}
+.linkedin
+{
+	background-image: url(https://portfolio-rails-2633.herokuapp.com/assets/linkedin-be22eb82414f9f637debbe2d64c301cb.svg);
+  background-repeat:no-repeat;
+    background-position: center center;
+}
+.twitter
+{
+	background-image: url(https://portfolio-rails-2633.herokuapp.com/assets/twitter-8c095eaee58362a46d56e3f07b50b23b.svg);
+    background-position: center center;
+  background-repeat:no-repeat;
+}
+
+
